@@ -1,0 +1,11 @@
+#Nome_Planilha
+#URL_Download
+#Nome_Arquivo			nome em que será salvo o arquivo
+#Nome_Aba				nome da aba dentro do arquivo
+#Coluna_Nome_Máquina	espaço para escrita no arquivo = '35'
+#Coluna_Hospedeira      espaço para escrita no arquivo = '25'
+#Coluna_IP_Gerencia		espaço para escrita no arquivo = '20'
+#Coluna_IP_Serviço		espaço para escrita no arquivo = '25'
+
+
+Example;/tmp/client/data/example.xls;example.xls;Planilha20;1;8;2;3
